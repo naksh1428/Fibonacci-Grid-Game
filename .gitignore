@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+../.venv/
+venv/
+
+# PyCharm (keep shared project settings, drop per-user state)
+.idea/workspace.xml
+.idea/shelf/
+.idea/httpRequests/
